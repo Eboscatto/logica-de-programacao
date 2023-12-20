@@ -1,6 +1,11 @@
-let nomeHeroi = "Everaldo"
-let qtdeXp = 10001
+//Bootcamp Dio
+//Desafio de projeto - lógica de programação
 
+//Declaração das variáveis
+let nomeHeroi = "Patolino"
+let qtdeXp = 999
+
+//Processamento e saída
 if(qtdeXp < 1000){
     console.log("O herói de nome " + nomeHeroi + " está no nível Ferro!")
 }
@@ -28,3 +33,4 @@ else if(qtdeXp >= 10001){
 else{
     console.log("Sem nível definido!")
 }
+//Final de código
